@@ -8,12 +8,12 @@
 
 ### Problem Statement
 
-‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. Here, doctors can easily organise appointments, track past medical records and provide e-prescriptions.
-Requirement is to build a custom NER to get the list of diseases and their treatment from the dataset.
+‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. Here, doctors can easily organize appointments, track past medical records and provide e-prescriptions.
+The requirement is to build a custom NER to get the list of diseases and their treatment from the dataset.
 
 ### Dataset
 
-Dataset consist of four files containing words in line seperated format:
+The dataset consist of four files containing words in line separate format:
 
 - train_sent
 - test_sent
